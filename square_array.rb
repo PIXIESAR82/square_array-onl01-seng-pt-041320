@@ -3,4 +3,3 @@ array.each do |numbers|
 numbers=numbers**2
 newArray
 end
-
